@@ -115,7 +115,7 @@ Namespaces are one honking great idea -- let's do more of those!
 
 ## Quiz Questions
 
-### 0. Run Python File
+## 0. Run Python File
 
 Write a Shell script that runs a Python script.
 
@@ -138,7 +138,7 @@ guillaume@ubuntu:~/py/0x00$
 - Directory: `0x00-python-hello_world`
 - File: `0-run`
 
-### 1. Run Inline
+## 1. Run Inline
 
 Write a Shell script that runs Python code.
 
@@ -157,7 +157,7 @@ guillaume@ubuntu:~/py/0x00$
 - Directory: `0x00-python-hello_world`
 - File: `1-run_inline`
 
-### 2. Hello, print
+## 2. Hello, print
 
 Write a Python script that prints exactly `"Programming is like building a multilingual puzzle,` followed by a new line.
 
@@ -175,7 +175,7 @@ guillaume@ubuntu:~/py/0x00$
 - Directory: `0x00-python-hello_world`
 - File: `2-print.py`
 
-### 3. Print integer
+## 3. Print integer
 
 Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/3-print_number.py) in order to print the integer stored in the variable `number`, followed by `Battery street`, followed by a new line.
 
@@ -199,7 +199,7 @@ guillaume@ubuntu:~/py/0x00$
 - Directory: `0x00-python-hello_world`
 - File: `3-print_number.py`
 
-### 4. Print float
+## 4. Print float
 
 Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/4-print_float.py) in order to print the float stored in the variable `number` with a precision of 2 digits.
 
@@ -222,7 +222,7 @@ guillaume@ubuntu:~/py/0x00$
 - Directory: `0x00-python-hello_world`
 - File: `4-print_float.py`
 
-### 5. Print string
+## 5. Print string
 
 Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/5-print_string.py) in order to print 3 times a string stored in the variable `str`, followed by its first 9 characters.
 
@@ -248,7 +248,7 @@ guillaume@ubuntu:~/py/0x00$
 - Directory: `0x00-python-hello_world`
 - File: `5-print_string.py`
 
-### 6. Play with strings
+## 6. Play with strings
 
 Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/6-concat.py) to print `Welcome to Holberton School!`
 
@@ -269,7 +269,7 @@ guillaume@ubuntu:~/py/0x00$
 - Directory: `0x00-python-hello_world`
 - File: `6-concat.py`
 
-### 7. Copy - Cut - Paste
+## 7. Copy - Cut - Paste
 
 Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/7-edges.py)
 
@@ -293,7 +293,7 @@ guillaume@ubuntu:~/py/0x00$
 - Directory: `0x00-python-hello_world`
 - File: `7-edges.py`
 
-### 8. Create a new sentence
+## 8. Create a new sentence
 
 Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/8-concat_edges.py) to print `object-oriented programming with Python`, followed by a new line.
 
@@ -314,7 +314,7 @@ guillaume@ubuntu:~/py/0x00$
 - Directory: `0x00-python-hello_world`
 - File: `8-concat_edges.py`
 
-### 9. Easter Egg
+## 9. Easter Egg
 
 Write a Python script that prints “The Zen of Python”, by Tim Peters, followed by a new line.
 
@@ -352,7 +352,7 @@ guillaume@ubuntu:~/py/0x00$
 - Directory: `0x00-python-hello_world`
 - File: `9-easter_egg.py`
 
-### 10. Linked list cycle
+## 10. Linked list cycle
 
 Technical interview preparation:
 
@@ -429,7 +429,7 @@ carrie@ubuntu:~/0x00$
 - Directory: `0x00-python-hello_world`
 - File: `10-check_cycle.c`, `lists.h`
 
-### 11. Hello, write
+## 11. Hello, write
 
 Write a Python script that prints exactly `and that piece of art is useful - Dora Korpar, 2015-10-19`, followed by a new line.
 
@@ -452,7 +452,7 @@ guillaume@ubuntu:~/py/0x00$
 - Directory: `0x00-python-hello_world`
 - File: `100-write.py`
 
-### 12. Compile
+## 12. Compile
 
 Write a script that compiles a Python script file.
 
@@ -480,7 +480,7 @@ guillaume@ubuntu:~/py/0x00$
 - Directory: `0x00-python-hello_world`
 - File: `101-compile`
 
-### 13. ByteCode -> Python #1
+## 13. ByteCode -> Python #1
 
 Write the Python function `def magic_calculation(a, b):` that does exactly the same as the following Python bytecode:
 
